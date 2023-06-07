@@ -69,8 +69,9 @@ p {
 }
 
 .subtext {
-    font-size: 15px;
+    font-size: 10px;
     font-weight: 300;
+    
 }
 
 .hero-area {
@@ -107,6 +108,7 @@ p {
 
 .socials {
     padding: 200px;
+
 }
 
 .selfie {
@@ -115,7 +117,8 @@ p {
 }
 
 .social {
-    margin: 20px;
+    margin: 10px 10px;
+    margin-bottom: 40px;
 }
 
 .headshot {
@@ -162,4 +165,10 @@ hr {
 a {
     text-decoration: none;
     color: white;
+}
+
+.project-link {
+    text-decoration: none;
+    color: forestgreen;
+
 }
